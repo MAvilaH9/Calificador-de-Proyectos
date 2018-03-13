@@ -1,0 +1,32 @@
+c:\users\mario avila hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\Proyecto_Calificador_de_Proyectos.exe.config
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\Proyecto_Calificador_de_Proyectos.exe
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\Proyecto_Calificador_de_Proyectos.pdb
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.frm_Login.resources
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.Properties.Resources.resources
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.csproj.GenerateResource.Cache
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.exe
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.pdb
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.GUI.frm_Inicio.resources
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.GUI.frm_Administrador.resources
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\MetroFramework.dll
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mario Avila Hu\documents\visual studio 2015\Projects\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.csprojResolveAssemblyReference.cache
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\Proyecto_Calificador_de_Proyectos.exe.config
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.exe
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.pdb
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\Proyecto_Calificador_de_Proyectos.exe
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\Proyecto_Calificador_de_Proyectos.pdb
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\MetroFramework.dll
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.GUI.frm_Inicio.resources
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.frm_Login.resources
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.Properties.Resources.resources
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.csproj.GenerateResource.Cache
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.GUI.frm_Equipos.resources
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.GUI.frm_Profesores.resources
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.GUI.frm_Proyecto.resources
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.GUI.frm_Alumnos.resources
+C:\Users\Mario Avila Hu\Desktop\Proyecto_Calificador_de_Proyectos\Proyecto_Calificador_de_Proyectos\obj\Debug\Proyecto_Calificador_de_Proyectos.GUI.frm_Coordinadores.resources
